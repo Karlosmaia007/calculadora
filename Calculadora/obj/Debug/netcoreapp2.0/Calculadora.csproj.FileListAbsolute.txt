@@ -1,0 +1,10 @@
+/mnt/c/Users/opet/Desktop/ListaExercicios/Calculadora/bin/Debug/netcoreapp2.0/Calculadora.deps.json
+/mnt/c/Users/opet/Desktop/ListaExercicios/Calculadora/bin/Debug/netcoreapp2.0/Calculadora.runtimeconfig.json
+/mnt/c/Users/opet/Desktop/ListaExercicios/Calculadora/bin/Debug/netcoreapp2.0/Calculadora.runtimeconfig.dev.json
+/mnt/c/Users/opet/Desktop/ListaExercicios/Calculadora/bin/Debug/netcoreapp2.0/Calculadora.dll
+/mnt/c/Users/opet/Desktop/ListaExercicios/Calculadora/bin/Debug/netcoreapp2.0/Calculadora.pdb
+/mnt/c/Users/opet/Desktop/ListaExercicios/Calculadora/obj/Debug/netcoreapp2.0/Calculadora.csproj.CoreCompileInputs.cache
+/mnt/c/Users/opet/Desktop/ListaExercicios/Calculadora/obj/Debug/netcoreapp2.0/Calculadora.AssemblyInfoInputs.cache
+/mnt/c/Users/opet/Desktop/ListaExercicios/Calculadora/obj/Debug/netcoreapp2.0/Calculadora.AssemblyInfo.cs
+/mnt/c/Users/opet/Desktop/ListaExercicios/Calculadora/obj/Debug/netcoreapp2.0/Calculadora.dll
+/mnt/c/Users/opet/Desktop/ListaExercicios/Calculadora/obj/Debug/netcoreapp2.0/Calculadora.pdb
